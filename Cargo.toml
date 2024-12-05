@@ -1,0 +1,9 @@
+[package]
+name = "termdraw"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+console = "0.15.8"
+signal-hook = "0.3.17"
+termios = "0.3.3"
